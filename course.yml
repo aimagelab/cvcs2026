@@ -1,0 +1,41 @@
+chunks:
+
+-
+    title: "Login"
+    id: access-forbidden
+    rules:
+        - if_has_role: [student, ta, instructor]
+          weight: 100
+          shown: false
+
+        - weight: 100
+          shown: true
+
+    content: |
+
+        You need to log-in to see this page, and you need to be enrolled in the course.
+
+-
+    title: "Welcome"
+    id: welcome
+    rules:
+        - if_has_role: [student, ta, instructor]
+          weight: 100
+          shown: true
+
+        - weight: 100
+          shown: false
+
+
+    content: |
+
+        # Computer Vision and Cognitive Systems 2026
+
+        Welcome! This platform hosts exercises and tests for the "Computer Vision and Cognitive System" course.
+
+        ## Exercises
+        - [Saturated arithmetic, Thresholds, Histogram](flow:001-linear-hist-threshold)
+
+        ## Final project and exam
+        - Will be available soon.
+
