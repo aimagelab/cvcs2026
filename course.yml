@@ -35,6 +35,7 @@ chunks:
 
         ## Exercises
         - [Saturated arithmetic, Thresholds, Histogram](flow:001-linear-hist-threshold)
+        - [Convolution and Pooling](flow:002-convolution)
 
         ## Final project and exam
         - Will be available soon.
