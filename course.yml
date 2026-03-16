@@ -37,6 +37,7 @@ chunks:
         - [Saturated arithmetic, Thresholds, Histogram](flow:001-linear-hist-threshold)
         - [Convolution and Pooling](flow:002-convolution-pooling)
         - [Edge Detection](flow:003-edge)
+        - [Residual Networks](flow:004-residual)
 
         ## Final project and exam
         - [Compose your group and manage your project](./projects)
