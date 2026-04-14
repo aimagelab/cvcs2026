@@ -38,6 +38,7 @@ chunks:
         - [Convolution and Pooling](flow:002-convolution-pooling)
         - [Edge Detection](flow:003-edge)
         - [Residual Networks](flow:004-residual)
+        - [Object Detection](flow:005-detection)
 
         ## Final project and exam
         - [Compose your group and manage your project](./projects)
