@@ -39,6 +39,7 @@ chunks:
         - [Edge Detection](flow:003-edge)
         - [Residual Networks](flow:004-residual)
         - [Object Detection](flow:005-detection)
+        - [Image Segmentation](flow:006-segmentation)
 
         ## Final project and exam
         - [Compose your group and manage your project](./projects)
